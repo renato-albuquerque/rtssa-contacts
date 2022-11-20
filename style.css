@@ -58,7 +58,7 @@ a:hover {
 }
 
 .developed-by:hover {
-    color: #8C7D82;
+    font-weight: bolder;
 }
 
 footer {
